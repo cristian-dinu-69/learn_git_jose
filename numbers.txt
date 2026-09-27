@@ -1,0 +1,3 @@
+one - unos
+two - dos
+three - tres
