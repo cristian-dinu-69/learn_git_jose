@@ -21,3 +21,8 @@ print(pm.__version__)
 # si tot de pe mac
 # si incheiem de pe mac
 
+# importam mai departe 
+
+arviz 
+matplotlib 
+seaborn  --sa testam care merge.
