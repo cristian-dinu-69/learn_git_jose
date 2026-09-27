@@ -10,3 +10,9 @@ print("End")
 print("modificare de pe mac")
 
 # te rog sa adaugi seaborn si pyplot la importuri
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+print(sns.__version__)
+print(plt.__version__)
