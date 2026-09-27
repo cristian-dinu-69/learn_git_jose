@@ -11,6 +11,8 @@ print("modificare de pe mac")
 
 # te rog sa adaugi seaborn si pyplot la importuri
 
+# cum naiba asi testat asta ?
+# ModuleNotFoundError: No module named 'matplotlib'
 import matplotlib.pyplot as plt
 import seaborn as sns
 
