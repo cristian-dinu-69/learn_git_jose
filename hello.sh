@@ -3,3 +3,5 @@
 echo "Salut din script"
 echo "A doua comanda merge si pe Mac"
 echo "A mers pe Mac"
+echo "Salut din Ubuntu-Linux"
+echo "de pe mac Salut din Ubuntu-Linux"
