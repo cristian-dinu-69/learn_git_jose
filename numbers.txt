@@ -4,4 +4,9 @@ three - tres - trei
 ++++++++++++++++++++
 four - quatro - patru
 five - cinque - cinci
-six - sete - sase
+six - seis - sase
+seven - sete -sapte
+eight - oto - opt
+nine - nove - noua
+ten - diece- zece
+
