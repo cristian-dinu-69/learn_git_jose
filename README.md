@@ -1,2 +1,2 @@
-salautam din vechaa Troie
+salautam din vechaa Troie\n
 mai adaugam o linie aici
