@@ -23,6 +23,6 @@ print(pm.__version__)
 
 # importam mai departe 
 
-arviz 
-matplotlib 
-seaborn  --sa testam care merge.
+# arviz 
+# matplotlib 
+# seaborn  --sa testam care merge.
