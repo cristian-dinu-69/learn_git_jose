@@ -1,3 +1,0 @@
-testam ce sa facem
-mai adaugam o linie de pe linux
-mai adaugam o linie de pa mac
