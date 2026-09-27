@@ -9,4 +9,10 @@ print("End")
 # modoficari de pe mac
 print("modificare de pe mac")
 
+# import pymc
+
+import pymc as pm
+print(pm.__version__)
+
+# adauga import pymc
 
