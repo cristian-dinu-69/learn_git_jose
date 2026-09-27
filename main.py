@@ -9,11 +9,10 @@ print("End")
 # modoficari de pe mac
 print("modificare de pe mac")
 
-# te rog sa adaugi seaborn la importuri
+# import pymc
 
-import seaborn as sns
-
-print(sns.__version__)
+import pymc as pm
+print(pm.__version__)
 
 # adauga import pymc
 
