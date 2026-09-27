@@ -17,4 +17,7 @@ print(pm.__version__)
 # adauga import pymc
 # a mers perfect
 # continuam de aici
+# da i adreptate continuam de pe mac
+# si tot de pe mac
+# si incheiem de pe mac
 
