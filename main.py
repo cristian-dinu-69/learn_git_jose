@@ -9,9 +9,4 @@ print("End")
 # modoficari de pe mac
 print("modificare de pe mac")
 
-# te rog sa adaugi seaborn la importuri
-
-import seaborn as sns
-
-print(sns.__version__)
 
