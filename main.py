@@ -16,4 +16,5 @@ print(pm.__version__)
 
 # adauga import pymc
 # a mers perfect
+# continuam de aici
 
