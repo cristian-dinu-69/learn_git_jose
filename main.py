@@ -8,3 +8,5 @@ print("End")
 #============================
 # modoficari de pe mac
 print("modificare de pe mac")
+
+# te rog sa adaugi seaborn si pyplot la importuri
