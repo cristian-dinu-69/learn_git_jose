@@ -1,4 +1,4 @@
-name = "Cristi"
+name = "Cristian"
 age = 57
 print("Hello")
 print(f"Name: {name}")
