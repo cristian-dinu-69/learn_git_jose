@@ -21,3 +21,12 @@ print(pm.__version__)
 # si tot de pe mac
 # si incheiem de pe mac
 
+# importam mai departe 
+
+import arviz as az 
+print(az.__version__)
+import matplotlib as mat
+print(mat.__version__)
+import seaborn as sns
+print(sns.__version__)
+#   --sa testam care merge.
