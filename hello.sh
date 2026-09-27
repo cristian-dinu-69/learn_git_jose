@@ -1,7 +1,4 @@
 #!/bin/bash
 
-echo "Salut din script"
-echo "A doua comanda merge si pe Mac"
-echo "A mers pe Mac"
-echo "Salut din Ubuntu-Linux"
-echo "de pe mac Salut din Ubuntu-Linux"
+echo "Salut din script trimise de pe Ubuntu"
+echo "A doua comanda merge si pe Mac trimis de pe ubuntu"
