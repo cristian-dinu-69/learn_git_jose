@@ -4,3 +4,4 @@ three - tres - trei
 ++++++++++++++++++++
 four - quatro - patru
 five - cinque - cinci
+six - sete - sase
